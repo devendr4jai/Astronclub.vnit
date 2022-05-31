@@ -1,11 +1,8 @@
-/* * {
-  padding: 0;
-  margin: 0;
-}* */
+
 
 #login {
   background: url(bg_2.jpeg) no-repeat;
-  /* background-size: cover; */
+  
   align-items: center;
   justify-content: center;
   display: flex;
